@@ -1,0 +1,144 @@
+2019-06-21 22:47:33,408 - eBanking -INFO - Driver is intantiated
+2019-06-21 22:47:37,874 - eBanking -INFO - URL is opened
+2019-06-21 22:47:38,043 - eBanking -INFO - Username is entered
+2019-06-21 22:47:38,107 - eBanking -INFO - Password is entered
+2019-06-21 22:47:38,509 - eBanking -INFO - login button clicked
+2019-06-21 22:47:38,525 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-21 22:47:40,321 - eBanking -INFO - Login Test is passed
+2019-06-21 22:47:41,221 - eBanking -INFO - Driver is closed
+2019-06-22 15:52:01,449 - eBanking -INFO - Driver is intantiated
+2019-06-22 15:52:07,368 - eBanking -INFO - URL is opened
+2019-06-22 15:52:08,292 - eBanking -INFO - Username is entered
+2019-06-22 15:52:08,346 - eBanking -INFO - Password is entered
+2019-06-22 15:52:08,771 - eBanking -INFO - login button clicked
+2019-06-22 15:52:08,791 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 15:52:10,472 - eBanking -INFO - Login Test is passed
+2019-06-22 15:52:11,382 - eBanking -INFO - Driver is closed
+2019-06-22 16:44:37,397 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:44:41,829 - eBanking -INFO - URL is opened
+2019-06-22 16:44:42,093 - eBanking -INFO - Username is entered
+2019-06-22 16:44:42,160 - eBanking -INFO - Password is entered
+2019-06-22 16:44:42,585 - eBanking -INFO - login button clicked
+2019-06-22 16:44:42,600 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 16:44:44,141 - eBanking -INFO - Login Test is passed
+2019-06-22 16:44:45,072 - eBanking -INFO - Driver is closed
+2019-06-22 16:49:11,870 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:49:13,431 - eBanking -INFO - URL is opened
+2019-06-22 16:49:14,900 - eBanking -INFO - Driver is closed
+2019-06-22 16:51:16,239 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:51:16,449 - eBanking -INFO - URL is opened
+2019-06-22 16:51:17,635 - eBanking -INFO - Driver is closed
+2019-06-22 16:52:41,064 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:52:41,265 - eBanking -INFO - URL is opened
+2019-06-22 16:52:42,394 - eBanking -INFO - Driver is closed
+2019-06-22 16:54:33,593 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:54:33,840 - eBanking -INFO - URL is opened
+2019-06-22 16:54:34,902 - eBanking -INFO - Driver is closed
+2019-06-22 16:58:06,229 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:58:06,390 - eBanking -INFO - URL is opened
+2019-06-22 16:58:07,485 - eBanking -INFO - Driver is closed
+2019-06-22 16:59:39,155 - eBanking -INFO - launching ie browser
+2019-06-22 16:59:39,162 - eBanking -INFO - Driver is intantiated
+2019-06-22 16:59:39,663 - eBanking -INFO - URL is opened
+2019-06-22 16:59:40,812 - eBanking -INFO - Driver is closed
+2019-06-22 17:02:56,371 - eBanking -INFO - launching ie browser
+2019-06-22 17:02:56,381 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:02:56,595 - eBanking -INFO - URL is opened
+2019-06-22 17:02:56,630 - eBanking -INFO - URL is opened
+2019-06-22 17:02:57,739 - eBanking -INFO - Driver is closed
+2019-06-22 17:09:34,276 - eBanking -INFO - launching ie browser
+2019-06-22 17:09:34,282 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:09:34,450 - eBanking -INFO - URL is opened
+2019-06-22 17:09:50,242 - eBanking -INFO - Driver is closed
+2019-06-22 17:11:05,780 - eBanking -INFO - launching ie browser
+2019-06-22 17:11:05,785 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:11:06,004 - eBanking -INFO - URL is opened
+2019-06-22 17:11:06,045 - eBanking -INFO - Username ismngr203815
+2019-06-22 17:11:07,117 - eBanking -INFO - Driver is closed
+2019-06-22 17:12:31,865 - eBanking -INFO - Launching firefox browser
+2019-06-22 17:12:31,869 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:12:35,802 - eBanking -INFO - URL is opened
+2019-06-22 17:12:35,855 - eBanking -INFO - Username ismngr203815
+2019-06-22 17:12:36,019 - eBanking -INFO - Username is entered
+2019-06-22 17:12:36,111 - eBanking -INFO - Password is entered
+2019-06-22 17:12:37,269 - eBanking -INFO - login button clicked
+2019-06-22 17:12:37,305 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 17:12:40,000 - eBanking -INFO - Driver is closed
+2019-06-22 17:14:03,084 - eBanking -INFO - Launching firefox browser
+2019-06-22 17:14:03,088 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:14:09,621 - eBanking -INFO - URL is opened
+2019-06-22 17:14:09,666 - eBanking -INFO - Username ismngr203815
+2019-06-22 17:14:09,832 - eBanking -INFO - Username is entered
+2019-06-22 17:14:10,278 - eBanking -INFO - Password is entered
+2019-06-22 17:14:11,671 - eBanking -INFO - login button clicked
+2019-06-22 17:14:11,703 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 17:14:14,390 - eBanking -INFO - Driver is closed
+2019-06-22 17:15:54,873 - eBanking -INFO - Launching firefox browser
+2019-06-22 17:15:54,881 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:15:58,092 - eBanking -INFO - URL is opened
+2019-06-22 17:15:58,190 - eBanking -INFO - Username ismngr203815
+2019-06-22 17:15:58,279 - eBanking -INFO - Username is entered
+2019-06-22 17:15:58,332 - eBanking -INFO - Password is entered
+2019-06-22 17:15:59,079 - eBanking -INFO - login button clicked
+2019-06-22 17:15:59,107 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 17:16:02,123 - eBanking -INFO - Driver is closed
+2019-06-22 17:16:21,806 - eBanking -INFO - Lauching chrome browser
+2019-06-22 17:16:21,813 - eBanking -INFO - Driver is intantiated
+2019-06-22 17:16:26,976 - eBanking -INFO - URL is opened
+2019-06-22 17:16:27,012 - eBanking -INFO - Username ismngr203815
+2019-06-22 17:16:27,179 - eBanking -INFO - Username is entered
+2019-06-22 17:16:27,234 - eBanking -INFO - Password is entered
+2019-06-22 17:16:27,635 - eBanking -INFO - login button clicked
+2019-06-22 17:16:27,651 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-22 17:16:29,628 - eBanking -INFO - Login Test is passed
+2019-06-22 17:16:30,475 - eBanking -INFO - Driver is closed
+2019-06-24 13:24:43,251 - eBanking -INFO - Lauching chrome browser
+2019-06-24 13:24:43,309 - eBanking -INFO - Driver is intantiated
+2019-06-24 13:24:56,428 - eBanking -INFO - URL is opened
+2019-06-24 13:24:56,794 - eBanking -INFO - Username ismngr203815
+2019-06-24 13:25:01,968 - eBanking -INFO - Username is entered
+2019-06-24 13:25:02,017 - eBanking -INFO - Password is entered
+2019-06-24 13:25:02,761 - eBanking -INFO - login button clicked
+2019-06-24 13:25:02,803 - eBanking -INFO - Alert is pesent and dissmissed
+2019-06-24 13:25:04,985 - eBanking -INFO - Login Test is passed
+2019-06-24 13:25:06,238 - eBanking -INFO - Driver is closed
+2019-07-09 20:23:14,551 - eBanking -INFO - Lauching chrome browser
+2019-07-09 20:23:14,597 - eBanking -INFO - Driver is intantiated
+2019-07-09 20:23:22,775 - eBanking -INFO - URL is opened
+2019-07-09 20:23:22,829 - eBanking -INFO - Username ismngr203815
+2019-07-09 20:23:25,010 - eBanking -INFO - Username is entered
+2019-07-09 20:23:25,057 - eBanking -INFO - Password is entered
+2019-07-09 20:23:25,498 - eBanking -INFO - login button clicked
+2019-07-09 20:23:25,517 - eBanking -INFO - Alert is pesent and dissmissed
+2019-07-09 20:23:27,566 - eBanking -INFO - Login Test is passed
+2019-07-09 20:23:28,888 - eBanking -INFO - Driver is closed
+2019-07-20 14:57:05,649 - eBanking -INFO - Lauching chrome browser
+2019-07-20 14:57:05,810 - eBanking -INFO - Driver is intantiated
+2019-07-20 14:57:19,526 - eBanking -INFO - URL is opened
+2019-07-20 14:57:19,724 - eBanking -INFO - Username ismngr203815
+2019-07-20 14:57:20,067 - eBanking -INFO - Username is entered
+2019-07-20 14:57:20,125 - eBanking -INFO - Password is entered
+2019-07-20 14:57:20,981 - eBanking -INFO - login button clicked
+2019-07-20 14:57:21,024 - eBanking -INFO - Alert is pesent and dissmissed
+2019-07-20 14:57:23,422 - eBanking -INFO - Login Test is passed
+2019-07-20 14:57:24,291 - eBanking -INFO - Driver is closed
+2019-07-20 15:21:57,038 - eBanking -INFO - Lauching chrome browser
+2019-07-20 15:21:57,048 - eBanking -INFO - Driver is intantiated
+2019-07-20 15:22:04,983 - eBanking -INFO - URL is opened
+2019-07-20 15:22:05,022 - eBanking -INFO - Username ismngr203815
+2019-07-20 15:22:05,309 - eBanking -INFO - Username is entered
+2019-07-20 15:22:05,385 - eBanking -INFO - Password is entered
+2019-07-20 15:22:06,327 - eBanking -INFO - login button clicked
+2019-07-20 15:22:06,340 - eBanking -INFO - Alert is pesent and dissmissed
+2019-07-20 15:22:08,653 - eBanking -INFO - Login Test is passed
+2019-07-20 15:22:09,706 - eBanking -INFO - Driver is closed
+2019-07-20 15:23:52,973 - eBanking -INFO - Lauching chrome browser
+2019-07-20 15:23:52,981 - eBanking -INFO - Driver is intantiated
+2019-07-20 15:23:58,610 - eBanking -INFO - URL is opened
+2019-07-20 15:23:58,642 - eBanking -INFO - Username ismngr203815
+2019-07-20 15:23:58,765 - eBanking -INFO - Username is entered
+2019-07-20 15:23:58,817 - eBanking -INFO - Password is entered
+2019-07-20 15:23:59,572 - eBanking -INFO - login button clicked
+2019-07-20 15:23:59,587 - eBanking -INFO - Alert is pesent and dissmissed
+2019-07-20 15:24:02,072 - eBanking -INFO - Login Test is passed
+2019-07-20 15:24:02,915 - eBanking -INFO - Driver is closed
